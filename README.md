@@ -1,5 +1,5 @@
 # CAR Sales ANALYTICS WITH ATTRITION PREDICTION
-![image.png](images/HRTalent.png)
+![CarSales.jpg](images/CarSales.jpg)
 
 ## INTRODUCTION
 
