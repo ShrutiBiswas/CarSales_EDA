@@ -4,9 +4,7 @@
 ## INTRODUCTION
 
 This dataset was collected from car sale advertisements between years 1953 to 2016 for study/practice purposes.
-Duplicate records were deleted.The missing values of engine volume were replaced with the mean. Preprocessing has been done. 
-
-- and is it just about __improving__ the sales of Car.
+Duplicate records were deleted.The missing values of engine volume were replaced with the mean. Preprocessing has been done. It is just about __improving__ the sales of Car.
 
 
 ## PROJECT ANALYSIS
