@@ -3,20 +3,15 @@
 
 ## INTRODUCTION
 
-Every year a lot of companies hire a number of employees. The companies __invest__ time and money in __training__ those employees, not just this but there are __training programs__ within the companies for their existing employees as well. The __aim__ of these programs is to __increase the effectiveness__ of their employees. 
+This dataset was collected from car sale advertisements between years 1953 to 2016 for study/practice purposes.
+Duplicate records were deleted.The missing values of engine volume were replaced with the mean. Preprocessing has been done. 
 
-- But where __HR Analytics__ fit in this? 
-
-- and is it just about __improving__ the performance of employees?
+- and is it just about __improving__ the sales of Car.
 
 
 ## PROJECT ANALYSIS
 
-| Description | Analysis |
-| --- | --- |
-| hr_data.head | ![image.png](images/head.png) |
-| dummies | ![image.png](images/dummies.png) |
-| final | ![image.png](images/final.png) |
+
 - In this dataset We have total 9576 observations after removing duplicate records.
 - We observe that out of total cars sold, majority of the cars sold by "Volkswagen", "Mercedes-Benz" and "BMW" brand.
 - "Sedan", "Crossover" and "Hatch" body types cars are the highest sold cars.
