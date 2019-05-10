@@ -1,5 +1,5 @@
 # CAR Sales ANALYTICS WITH ATTRITION PREDICTION
-![CarSales.jpg](images/CarSales.jpg)
+![](Images/CarSales.jpg)
 
 ## INTRODUCTION
 
