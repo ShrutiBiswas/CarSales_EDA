@@ -24,4 +24,4 @@ Duplicate records were deleted.The missing values of engine volume were replaced
 - Production year 2008 and 2012 cars are the highest sold cars.
 
 
-[Jupyter Notebook](./CarSales.ipynb)
+[Jupyter Notebook](./CarSales_EDA.ipynb)
